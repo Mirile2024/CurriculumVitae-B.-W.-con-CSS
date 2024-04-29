@@ -1,0 +1,30 @@
+header{
+ text-align: center;
+ background:#e6e6e6;
+}
+h1{
+    text-align: center;
+    margin: 0px;
+    color: blue;
+    background: #9691b4;
+}
+h2.datos{
+    color: brown;
+    background: #ddceda;
+}
+h2.formacion{
+    color: chartreuse;
+    background: #9691b4;
+}
+h2.experiencia{
+    color: #032e38;
+    background: #9691b4;
+}
+footer{
+    text-align: center;
+    color: rgb(240, 244, 248);
+    background: hsl(241, 83%, 32%);
+}
+footer img{
+height: auto; width: 15px;
+}
